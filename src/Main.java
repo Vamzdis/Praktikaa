@@ -8,7 +8,7 @@ public class Main {
 
         Papildoma klase = new Papildoma();
         klase.pasisveikink();
-        System.out.println("Gerai praleiskit laika!");
+        System.out.println("Gerai praleiskit laika!!");
         while(true){
             klase.paklausk();
             klase.nuspresk();
